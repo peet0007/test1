@@ -1,2 +1,2 @@
 print("hello, python here")
-print("well i updated it as")
+print("well i updated it")
